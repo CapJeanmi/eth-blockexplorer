@@ -1,0 +1,21 @@
+.Collapsible {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .Collapsible-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .Collapsible-header:hover {
+    background-color: #ddd;
+  }
+  
+  .Collapsible-content {
+    padding: 10px;
+}
